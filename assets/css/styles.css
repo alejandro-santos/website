@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Walkway SemiBold";
-    src: url('/SecondWebsite/Walkway_SemiBold.ttf') format("truetype");
+    src: url('/website/Walkway_SemiBold.ttf') format("truetype");
   }
 
 @font-face {
     font-family: "Monument Extended";
-    src: url('/SecondWebsite/MonumentExtended-Regular.otf') format("opentype");
+    src: url('/website/MonumentExtended-Regular.otf') format("opentype");
   } 
 
 

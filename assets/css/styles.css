@@ -1,0 +1,148 @@
+@font-face {
+    font-family: "Walkway SemiBold";
+    src: url('/SecondWebsite/Walkway_SemiBold.ttf') format("truetype");
+  }
+
+@font-face {
+    font-family: "Monument Extended";
+    src: url('/SecondWebsite/MonumentExtended-Regular.otf') format("opentype");
+  } 
+
+
+
+
+body, html {
+    background-color: #121212;
+    scroll-behavior: smooth;
+    color: white;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.navbar {
+    color: white;
+    font-family: 'Monument Extended', sans-serif;
+}
+
+
+.wrap-text {
+    font-family: 'Monument Extended', sans-serif;
+
+    color: white;
+    letter-spacing: 3px;
+    margin-left: 50px;
+    display: inline;
+    line-height: 0px;
+
+}
+
+h1 {
+    padding-top: 65px;
+    padding-left: 105px;
+    font-size: 4.5vw;
+
+}
+
+h4 {
+    font-family: 'Monument Extended', sans-serif;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    padding-left: 0;
+}
+
+
+
+.webdev {
+    font-family: "Walkway SemiBold", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    line-height: 15px;
+    display: block;
+    font-size: 15px;
+}
+
+/* About Page */ 
+
+.about-me {
+    font-family: 'Walkway SemiBold', sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+    padding-left: 105px;
+    letter-spacing: 2px;
+    padding-right: 45px;
+}
+
+.about-header {
+    font-family:'Monument Extended', sans-serif;
+}
+
+.about {
+    margin-left: 10.5vw;
+    margin-top: 3.5vw
+}
+
+
+img {
+  max-width: 70%;
+  width: 80vw;
+  object-fit: scale-down;
+}
+
+.intro {
+    color: white;
+    height: 0vh;
+    position: relative;
+    font-family: 'Khula', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 1;
+    top: 300px;
+    margin-left: 20%;
+  }
+
+  .animsition {
+      color: white;
+  }
+
+  #navbar {
+      margin-right: 25px;
+  }
+
+.main-img {
+    height: 30.0vw;
+    float: right;
+    position: relative;
+    
+}
+
+.about-img {
+    width: 35vw;
+    height: auto;
+    float: right;
+    margin-right: 200px;
+}
+
+ul {
+    list-style: none;
+
+}
+
+.skills {
+    padding-left: 30px;;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    text-align: center;
+    font-family:'Walkway SemiBold', sans-serif;
+}
+
+.fas {
+    font-size: 3em;
+    padding-bottom: 1vh;
+}
